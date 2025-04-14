@@ -1,7 +1,9 @@
 streamlit
-torch==2.0.1
-torchvision==0.15.2
-transformers==4.30.2
+torch
+torchvision
+transformers
 pillow
 pytesseract
-sentence-transformers==2.2.2
+sentence-transformers
+
+
