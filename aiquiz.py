@@ -180,6 +180,9 @@ from sentence_transformers import SentenceTransformer, util
 import base64
 import os
 
+model = SentenceTransformer('all-MiniLM-L6-v2')
+
+
 # Ensure Streamlit page config is set first
 st.set_page_config(page_title="AI Quiz Generator", page_icon="🚀")
 
