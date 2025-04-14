@@ -5,3 +5,4 @@ transformers
 pillow
 pytesseract
 sentence-transformers
+sentencepiece
