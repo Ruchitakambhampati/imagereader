@@ -4,3 +4,4 @@ torchvision
 transformers
 pillow
 pytesseract
+sentence-transformers
