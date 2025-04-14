@@ -5,3 +5,8 @@ transformers
 pillow
 pytesseract
 sentence-transformers
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 4465906236c8e4d39f86de9e8f50e75aedc0d687
